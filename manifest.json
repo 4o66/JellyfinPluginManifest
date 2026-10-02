@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/4o66/JellyfinPluginManifest/main/resources/additional-material.png",
     "versions": [
       {
+        "version": "1.5.0.0",
+        "changelog": "The plugin can build archives itself (Settings > Building, off by default), with the helper script's rules. One-file material is handed out as the file. Contents list left-out files.",
+        "targetAbi": "12.1.0.0",
+        "sourceUrl": "https://github.com/4o66/jellyfin-plugin-additional-material/releases/download/v1.5.0/additional-material_1.5.0.0.zip",
+        "checksum": "22767dd6ec183633545823988b3c9f59",
+        "timestamp": "2026-10-02T21:07:41Z"
+      },
+      {
         "version": "1.4.0.0",
         "changelog": "Settings reorganized into sections with one Save bar; Reset to default for the accent color.",
         "targetAbi": "12.1.0.0",
