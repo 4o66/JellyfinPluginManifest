@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/4o66/JellyfinPluginManifest/main/resources/additional-material.png",
     "versions": [
       {
+        "version": "1.3.0.0",
+        "changelog": "Contents view: see the files in each archive and download them one by one, including files in zips inside the material. Settings: Re-read folders.",
+        "targetAbi": "12.1.0.0",
+        "sourceUrl": "https://github.com/4o66/jellyfin-plugin-additional-material/releases/download/v1.3.0/additional-material_1.3.0.0.zip",
+        "checksum": "a20a206a534118811da8c986ba3a1de6",
+        "timestamp": "2026-10-02T16:26:07Z"
+      },
+      {
         "version": "1.2.3.0",
         "changelog": "Fixed: icons could vanish until a reload. Security (Windows): the link-signing key is no longer readable by every local user.",
         "targetAbi": "12.1.0.0",
