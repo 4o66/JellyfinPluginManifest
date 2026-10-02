@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/4o66/JellyfinPluginManifest/main/resources/additional-material.png",
     "versions": [
       {
+        "version": "1.5.3.0",
+        "changelog": "One button on every page, opening the picker; course and section archives download from its foot.",
+        "targetAbi": "12.1.0.0",
+        "sourceUrl": "https://github.com/4o66/jellyfin-plugin-additional-material/releases/download/v1.5.3/additional-material_1.5.3.0.zip",
+        "checksum": "365495808370149340a62d1780cc77ab",
+        "timestamp": "2026-10-02T23:16:27Z"
+      },
+      {
         "version": "1.5.2.0",
         "changelog": "New courses get their material within a minute of Jellyfin adding them, not at the next full scan.",
         "targetAbi": "12.1.0.0",
