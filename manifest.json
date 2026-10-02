@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/4o66/JellyfinPluginManifest/main/resources/additional-material.png",
     "versions": [
       {
+        "version": "1.5.1.0",
+        "changelog": "Redirect placeholders (Udemy quiz pages) get an Open link to the site they point at.",
+        "targetAbi": "12.1.0.0",
+        "sourceUrl": "https://github.com/4o66/jellyfin-plugin-additional-material/releases/download/v1.5.1/additional-material_1.5.1.0.zip",
+        "checksum": "6295b5a437211d38987e9896833eee41",
+        "timestamp": "2026-10-02T21:52:41Z"
+      },
+      {
         "version": "1.5.0.0",
         "changelog": "The plugin can build archives itself (Settings > Building, off by default), with the helper script's rules. One-file material is handed out as the file. Contents list left-out files.",
         "targetAbi": "12.1.0.0",
