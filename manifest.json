@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/4o66/JellyfinPluginManifest/main/resources/additional-material.png",
     "versions": [
       {
+        "version": "1.2.0.0",
+        "changelog": "Icons appear at once: material is indexed at startup and after library scans. New task \"Refresh additional material\".",
+        "targetAbi": "12.1.0.0",
+        "sourceUrl": "https://github.com/4o66/jellyfin-plugin-additional-material/releases/download/v1.2.0/additional-material_1.2.0.0.zip",
+        "checksum": "b9533f31a604a4b56f14a610d57f6c0b",
+        "timestamp": "2026-10-02T08:32:51Z"
+      },
+      {
         "version": "1.1.1.0",
         "changelog": "Descriptive download names; course and section listings; grid and list icons; new two-color icon; translatable text.",
         "targetAbi": "12.1.0.0",
