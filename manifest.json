@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/4o66/JellyfinPluginManifest/main/resources/additional-material.png",
     "versions": [
       {
+        "version": "1.5.4.0",
+        "changelog": "Icons appear 5-10 times sooner and at once on return visits; grid icon in the bottom-left corner.",
+        "targetAbi": "12.1.0.0",
+        "sourceUrl": "https://github.com/4o66/jellyfin-plugin-additional-material/releases/download/v1.5.4/additional-material_1.5.4.0.zip",
+        "checksum": "f079bbc1360a126a97fbfb4cad380205",
+        "timestamp": "2026-10-02T23:33:16Z"
+      },
+      {
         "version": "1.5.3.0",
         "changelog": "One button on every page, opening the picker; course and section archives download from its foot.",
         "targetAbi": "12.1.0.0",
