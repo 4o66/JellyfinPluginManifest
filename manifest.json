@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/4o66/JellyfinPluginManifest/main/resources/additional-material.png",
     "versions": [
       {
+        "version": "1.6.0.0",
+        "changelog": "Rules editable in the settings (turn off, edit, add, check, download); optional VirusTotal lookups of removed files by SHA-256, with how to get a free key.",
+        "targetAbi": "12.1.0.0",
+        "sourceUrl": "https://github.com/4o66/jellyfin-plugin-additional-material/releases/download/v1.6.0/additional-material_1.6.0.0.zip",
+        "checksum": "28e9b54579cb922942b83f4363bf6dd5",
+        "timestamp": "2026-10-04T07:11:05Z"
+      },
+      {
         "version": "1.5.4.0",
         "changelog": "Icons appear 5-10 times sooner and at once on return visits; grid icon in the bottom-left corner.",
         "targetAbi": "12.1.0.0",
