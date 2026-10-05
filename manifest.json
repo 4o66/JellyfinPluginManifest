@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/4o66/JellyfinPluginManifest/main/resources/additional-material.png",
     "versions": [
       {
+        "version": "1.6.1.0",
+        "changelog": "Material added to an existing course is noticed without a scan, in libraries with real-time monitoring on.",
+        "targetAbi": "12.1.0.0",
+        "sourceUrl": "https://github.com/4o66/jellyfin-plugin-additional-material/releases/download/v1.6.1/additional-material_1.6.1.0.zip",
+        "checksum": "1aee6d2841ec48d8a64eefbadf435000",
+        "timestamp": "2026-10-05T00:24:21Z"
+      },
+      {
         "version": "1.6.0.0",
         "changelog": "Rules editable in the settings (turn off, edit, add, check, download); optional VirusTotal lookups of removed files by SHA-256, with how to get a free key.",
         "targetAbi": "12.1.0.0",
